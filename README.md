@@ -1,0 +1,9 @@
+Nome: Cleorbeth Oliveira Santos e Gustavo Alexandre de Carvalho
+
+Título: GEFIGA - SISTEMA DE GESTÃO FINANCEIRA USANDO GAMIFICAÇÃO
+
+Resumo: O acesso facilitado ao crédito e a falta de letramento financeiro têm impactado negativamente a saúde financeira da população. Ferramentas tradicionais de gestão, como planilhas estáticas e aplicativos bancários burocráticos, muitas vezes falham em reter os usuários devido à alta carga cognitiva e à falta de estímulos comportamentais. Diante deste cenário, o presente trabalho apresenta o desenvolvimento e a avaliação empírica do GEFIGA, um Sistema de Gestão Financeira focado no engajamento através da gamificação e fundamentado na Teoria da Autodeterminação. A aplicação web foi construída utilizando as tecnologias Vue.js e Firebase, incorporando mecânicas como a pontuação punitiva e recompensadora por categorização de despesas (essenciais versus supérfluas), progressão de patentes em uma jornada financeira e tangibilização visual de metas. A avaliação da solução foi conduzida com uma amostra de 22 voluntários, utilizando os instrumentos SUS (System Usability Scale) para usabilidade e MEEGA+ para a mensuração da experiência gamificada. Os resultados revelaram um score SUS de 78, confirmando a alta aceitação e a baixa barreira de entrada da interface, inclusive para o público com mais de 50 anos, que compôs a maior parcela da amostra (40,9%). Os dados empíricos do MEEGA+ validaram a eficácia das mecânicas aplicadas, demonstrando forte percepção positiva nas dimensões de Competência e Autonomia, com destaque absoluto para a interface de Metas. Conclui-se que a substituição da fricção burocrática por recompensas visuais e interativas transforma o mero registro do fluxo de caixa em um ambiente de educação continuada, mitigando o abandono do sistema e promovendo um comportamento financeiro consciente.
+
+Orientador: Prof. Ms. Emilio Carlos Rodrigues
+
+Mês/Ano: Junho de 2026
